@@ -155,4 +155,3 @@ if __name__ == "__main__":
             f.write(i.split('.')[0] + ',' + ','.join(
                 [str(num) for num in output]) + '\n')
 
-    
